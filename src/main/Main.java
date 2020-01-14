@@ -14,7 +14,7 @@ public class Main extends Canvas implements Runnable {
 	
 	public static void main(String[] args) {
 		new Main();
-
+		
 	}
 	
 	public Main() {
