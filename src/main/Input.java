@@ -1,5 +1,7 @@
 package main;
 
-public class Input {
-
+public abstract class Input {
+	public static void KeyPressed() {
+		
+	}
 }
